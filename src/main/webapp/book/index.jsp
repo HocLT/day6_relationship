@@ -10,6 +10,7 @@
 <title>Book List</title>
 </head>
 <body>
+	<h3><a href="Controller?a=DisplayCreate">Create New</a></h3>
 	<form action="Controller">
 		<select name="category">
 			<option value="0">Choose</option>
